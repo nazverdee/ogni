@@ -7,13 +7,13 @@ The platform integrates video conferencing capabilities and employs SQL for effi
 
 ## Features
 
-- **Personalized Coaching:**
+- **Personalized Coaching**
   
-- **Secure Communication:** 
+- **Secure Communication** 
 
-- **Video Conferencing:**
+- **Video Conferencing**
 
-- **Database Management:**
+- **Database Management**
 
 ## Getting Started
 
